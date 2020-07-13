@@ -1,0 +1,9 @@
+This is a project in which I have trained a model using 8000 (training: 4000 images of each dogs and cats) + 2000 (validation: 1000 images of each dogs and cats) images of Dogs and Cats to classify dogs and cats in there respective categories.
+The model makes use of Convolutional Neural Network to extract appropriate features from images of dogs and cats and make use of them by identifying coreect features and recognising them afterwards when asked to classify.
+This model is has an accuracy of around 85% which can be increased easily by some small changes in the parameters.
+Some conclusions I made after studying in depth about this model:
+The model works on features of eyes, nose, hair, etc. This can be concluded by a small experiment which I tried after training the model:
+Since a cat has eyes that resemble eyes of snakes so if we input the picture of a snake for classification, the model classifies it as a cat.
+The accuracy of model also depends on the dimension of input image, i.e, a higher dimension image is more likely to produce better result for classification. 
+On the contrary if we use exact dimensions of image as input dimensions in the Neural Network that will make the model overfitted on the input data.
+
