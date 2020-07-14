@@ -1,0 +1,10 @@
+This Dataset was taken from Kaggle so the actual test case accuracy which was obtained after after submission of the saved files (having the predicted result are as follows):
+Submissions For Titanic survival model using linear regression 						: 0.72966
+Submissions For Titanic survival model using RandomForestClassifier					: 0.78468
+Submissions For Titanic survival model using Logistic Regression					: 0.77033
+Submissions For Titanic survival model using GaussianNB							: 0.75358
+Submissions For Titanic survival model using KNeighborsClassifier					: 0.74401
+Submissions For Titanic survival model using Support Vector Machine(Classifier)				: 0.76555
+Submissions For Titanic survival model using Artificial Neural Networks(with 10 middle layer nodes)	: 0.76076
+Submissions For Titanic survival model using Artificial Neural Networks(with 100 middle layer nodes)	: 0.77751
+The above results show that is the best stuited model among all the models if Random Forest Classifier and the reason behind this is models like Decision Trees are the most effective ways to make binary classifications like these. Regression models on the other hand can be used to predict the probabilty of survival of a person more precisely.
