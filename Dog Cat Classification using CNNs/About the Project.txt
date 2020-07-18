@@ -1,4 +1,4 @@
-This is a project in which I have trained a model using 8000 (training: 4000 images of each dogs and cats) + 2000 (validation: 1000 images of each dogs and cats) images of Dogs and Cats to classify dogs and cats in there respective categories.
+This is a project in which I have trained a model using 8000 (training: 4000 images of each dogs and cats) + 2000 (validation: 1000 images of each dogs and cats) images of Dogs and Cats to classify dogs and cats in their respective categories.
 The model makes use of Convolutional Neural Network to extract appropriate features from images of dogs and cats and make use of them by identifying coreect features and recognising them afterwards when asked to classify.
 This model is has an accuracy of around 85% which can be increased easily by some small changes in the parameters.
 Some conclusions I made after studying in depth about this model:
