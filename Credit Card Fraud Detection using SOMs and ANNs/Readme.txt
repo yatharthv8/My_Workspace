@@ -1,0 +1,3 @@
+This Project uses the data of many customers of a bank who gave an application for credit cards of the bank and who were given credit cards on the basis of the information they provided to the bank.
+This model uses deep learning and unsupervised learning techniques(Self Organising Maps) to predict potential frauds among the people who applied for credit cards, on the basis of the information given by them.
+The data is encoded in a certain way (the banks encodes it to protect customer's privacy and to ensure data protection). So, this makes it even more diificult for humans to understand the data.
