@@ -1,4 +1,4 @@
-This Project is a cumulative study of 8 different types of models(Linear Regression, Random Forest Classifiers, Artificial Neural Networks, etc.) and their prediction results for Titanic Survivor database.
+This Project is a cumulative study of 8 different types of models(Linear Regression, Random Forest Classifiers, Artificial Neural Networks, etc.) and their prediction results for Titanic Survivor database. 
 
 This database is taken from Kaggle.
 
